@@ -1,7 +1,19 @@
-# tribute-page
-
-
-I created a tribute-page of south korean boy band, BTS.
-
-
-I used HTML and CSS and an image.
+# Tribute Page of BTS
+Link: 
+https://2021sky.github.io/tribute-page/
+<br>
+<br>
+<br>
+Languages:
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+<br>
+Screenshots:
+<br>
+<br>
+<br>
+Realiztion:
+<ul>
+</ul>
