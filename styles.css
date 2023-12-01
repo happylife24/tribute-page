@@ -108,6 +108,11 @@ h5 {
 main, #img-caption {
     font-family: arial;
 }
+
+#font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .list {
     padding: 150px;
     padding-top: 0px;
