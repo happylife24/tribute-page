@@ -106,7 +106,7 @@ h5 {
 /* media query */
 @media only screen and (max-width: 900px) {
 main, #img-caption {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: arial;
 }
 .list {
     padding: 150px;
