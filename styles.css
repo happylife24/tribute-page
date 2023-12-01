@@ -97,7 +97,7 @@ h5 {
 }
 
 
-/* media query for Iphone */
+/* media query */
 @media only screen and (max-width: 900px) {
 main, #img-caption {
     font-family: 'Times New Roman', Times, serif;
