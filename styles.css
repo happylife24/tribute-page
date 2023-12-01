@@ -99,7 +99,7 @@ h5 {
 
 /* media query for Iphone */
 @media only screen and (max-width: 900px) {
-main {
+main, #img-caption {
     font-family: 'Times New Roman', Times, serif;
 }
 .list {
