@@ -7,15 +7,6 @@ This is a responsive website for mobile and desktop
 <br>
 <br>
 Languages:
-<ul>
   <li>HTML</li>
   <li>CSS</li>
-</ul>
-<br>
-Screenshots:
-<br>
-<br>
-<br>
-Realiztion:
-<ul>
-</ul>
+
